@@ -1,5 +1,5 @@
 {
-  "name": "tools",
+  "name": "node-pdf-splitter",
   "version": "1.0.0",
   "description": "Splits a pdf up in seperate pdf's",
   "main": "index.js",
