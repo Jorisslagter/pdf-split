@@ -1,5 +1,4 @@
 const fs = require("fs");
-const readline = require("readline");
 const { PDFDocument } = require("pdf-lib");
 const inquirer = require("inquirer");
 

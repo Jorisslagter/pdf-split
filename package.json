@@ -1,13 +1,13 @@
 {
   "name": "tools",
   "version": "1.0.0",
-  "description": "",
+  "description": "Splits a pdf up in seperate pdf's",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node", "javascript", "pdf", "splitter"],
+  "author": "Joris Slagter",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.0.0",
